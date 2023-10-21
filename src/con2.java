@@ -18,6 +18,7 @@ class PC
     void show()
     {
         System.out.println(p+"   "+q+"   "+r+"   "+s);
+
     }
 }
 class con2
